@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "CLI Gem Project - Transfer Market"
-date:       2019-10-13 19:26:42 +0000
+date:       2019-10-13 15:26:43 -0400
 permalink:  cli_gem_project_-_transfer_market
 ---
 
 
 Hi Everyone, 
 
-Greetings from a very specific longitude and latitude somewhereon the east coast. 
+Greetings from a very specific longitude and latitude somewhere on the east coast. 
 
 Today I would like to talk about my first project in the online software engineering course.
 
@@ -18,7 +18,7 @@ Oh, I know. Let us begin from where it all kicked off... The moment our cohort's
 
 At first, I was left nervous thinking, "Me, write an application?!? I've only been doing this[coding] for a little over a month. I hope I'm ready."
 
-Although being a bit nervous, I was confident that the course material presented to us up to this point was all we needed to build a successful CLI application. 
+Although being a bit nervous, I was confident that the course material presented to us up to this point should have prepared us to build a successful CLI application. 
 
 To start, I watched Avi's video about starting the project very intently and I have to say, I was very grateful this material was made available to us. I worried that I wouldn't be able to have consistent dialogs with Jake to help trouble-shoot any issues that I would run into, specifically on weekends, but Avi's video ensured I was at least able to get started and start generating some output with my code.  
 
