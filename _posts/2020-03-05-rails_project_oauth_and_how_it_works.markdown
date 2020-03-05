@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project: oAuth and How it Works"
-date:       2020-03-05 18:53:02 +0000
+date:       2020-03-05 13:53:03 -0500
 permalink:  rails_project_oauth_and_how_it_works
 ---
 
