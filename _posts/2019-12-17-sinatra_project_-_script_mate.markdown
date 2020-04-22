@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project - Script Mate"
-date:       2019-12-17 21:32:51 +0000
+date:       2019-12-17 16:32:52 -0500
 permalink:  sinatra_project_-_script_mate
 ---
 
@@ -51,7 +51,7 @@ Next up, MORE BRANCHES! If I'm making a project I would like some characters, se
     <% end %> 
 ```
 
-Although I was technically done with the prject requirements, I wanted to make the application experience as realistic as possible and added a user profile page, a home page with a daily feed, and an about page. Sprinkle a little CSS on top (although the CSS portion of this project really gave me more than I had bargained for) and there it is: Spark Mate. 
+Although I was technically done with the project requirements, I wanted to make the application experience as realistic as possible and added a user profile page, a home page with a daily feed, and an about page. Sprinkle a little CSS on top (although the CSS portion of this project really gave me more than I had bargained for) and there it is: Script Mate. 
 
 
 
