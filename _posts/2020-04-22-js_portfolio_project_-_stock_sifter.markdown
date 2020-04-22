@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS Portfolio Project - Stock Sifter"
-date:       2020-04-22 16:43:57 +0000
+date:       2020-04-22 12:43:58 -0400
 permalink:  js_portfolio_project_-_stock_sifter
 ---
 
